@@ -7,3 +7,9 @@ Todo
 - File handler
 - Http handler
 - There's always room for more colors
+
+## License
+
+[MIT](./LICENSE)
+
+The logging code from Deno std is MIT Copyright 2018-2022 the Deno authors.

@@ -6,6 +6,4 @@ If something becomes mature enough that warrants more attention then you'll see 
 
 ## License
 
-[MIT](./LICENSE)
-
-The logging code from Deno std is MIT Copyright 2018-2022 the Deno authors.
+Everything is [MIT](./LICENSE)
